@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi! My name is Derek</h2>
 
 ###
 
@@ -19,8 +19,3 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/DerekCoelho2801/DerekCoelho2801/output/snake.svg" alt="Snake animation" />
-
-###
