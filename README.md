@@ -20,9 +20,3 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DerekCoelho2801/DerekCoelho2801/output/snake.svg" alt="Snake animation" />
-
-###
